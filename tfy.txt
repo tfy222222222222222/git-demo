@@ -1,4 +1,3 @@
 123  22
-<<<<<<< HEAD
 456  333test
 789hot-fix test
